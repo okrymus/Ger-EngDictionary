@@ -1,0 +1,56 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.okrymus.ger_engdictionary.DictionaryActivity" >
+
+
+    <item android:id="@+id/action_option1"
+        android:title="@string/action_option1"
+        android:orderInCategory="1" />
+
+
+    <item android:id="@+id/action_option2"
+        android:title="@string/action_option2"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/action_option3"
+        android:title="@string/action_option3"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_option4"
+        android:title="@string/action_option4"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_option5"
+        android:title="@string/action_option5"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/action_option6"
+        android:title="@string/action_option6"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/action_option7"
+        android:title="@string/action_option7"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/action_option8"
+        android:title="@string/action_option8"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/action_option9"
+        android:title="@string/action_option9"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+</menu>

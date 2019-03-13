@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">German-English Dictionary</string>
+
+    <string name="action_option1">Create the word list</string>
+    <string name="action_option2">German to English nouns</string>
+    <string name="action_option3">German to English verbs</string>
+    <string name="action_option4">German to English prepositions</string>
+    <string name="action_option5">German to English  adjectives</string>
+    <string name="action_option6">German to English adverbs</string>
+    <string name="action_option7">German to English cardinal numbers</string>
+    <string name="action_option8">Search for a word</string>
+    <string name="action_option9">Quit</string>
+    <string name="alertCreateWordsDialog">Do you want the program to create words list automatically?</string>
+
+    <string name="inputGermanTextLabel">German word</string>
+    <string name="inputEnglishTextLabel">English word</string>
+    <string name="partOfSpeechTextLabel">Part of speech</string>
+
+    <string name="title_activity_createWordList">Create words list</string>
+
+    <string name="radio_label_noun">noun</string>
+    <string name="radio_label_verb">verb</string>
+    <string name="radio_label_adjective">adjective</string>
+    <string name="radio_label_adverb">adverb</string>
+    <string name="radio_label_cardinalNumber">cardinal number</string>
+    <string name="radio_label_preposition">preposition</string>
+
+    <string name="back_label">Back</string>
+    <string name="next_label">Next</string>
+    <string name="alertExitDialog">"Are you sure to exit?"</string>
+
+    <string name="buttom_label_submit">Submit</string>
+    <string name="buttom_label_remove">Remove</string>
+    <string name="buttom_label_clear">Clear</string>
+
+    <string name="alertFileExistedDialog">The file has created! Do you want to create new words list?</string>
+
+    <string name="action_search">Search</string>
+
+    <string name="msg_no_present">No empty</string>
+
+</resources>
